@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CF79CB29-FA2A-4E76-BCC2-770491F27ABB}|Default">
+  <MonoDevelop.Ide.ItemProperties.OdontologyClinic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OdontologyClinic/Program.cs">
+    <Files>
+      <File FileName="OdontologyClinic/Program.cs" Line="14" Column="13" />
+      <File FileName="OdontologyClinic/Model/Patient.cs" Line="8" Column="48" />
+      <File FileName="OdontologyClinic/Model/Clinic.cs" Line="10" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OdontologyClinic" expanded="True">
+            <Node name="OdontologyClinic" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
