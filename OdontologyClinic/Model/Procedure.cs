@@ -1,9 +1,19 @@
 ﻿using System;
 namespace OdontologyClinic
 {
-    public enum Procedure
+    public class Procedure
     {
-        ClareamentoDental, TratamentoOrtodontico, Implante, Extracao,
-        EnxertoGengival, Restauracao, Canal
+        public string Name { get; set;}
+        public double Price { get; set; }
+
+        public Procedure(string name, double price)
+        {
+            Name = name;
+            Price = price;
+        }
+
+        public Procedure()
+        {
+        }
     }
 }

@@ -12,5 +12,9 @@ namespace OdontologyClinic
             Name = name;
             BirthDate = birthDate;
         }
+
+        public Patient()
+        {
+        }
     }
 }

@@ -37,6 +37,7 @@
     <Compile Include="Model\Patient.cs" />
     <Compile Include="Model\Procedure.cs" />
     <Compile Include="Model\Clinic.cs" />
+    <Compile Include="Model\MedicalCare.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Model\" />
