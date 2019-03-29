@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E523415A-A12B-493C-A7E7-03CCEABEC62A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContactsSchedule/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="ContactsSchedule/Controllers/HomeController.cs" Line="22" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ContactsSchedule" expanded="True">
+            <Node name="ContactsSchedule" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ContactsSchedule PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
