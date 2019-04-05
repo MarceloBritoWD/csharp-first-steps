@@ -1,6 +1,0 @@
-/Users/marcelobrito/Documents/University/DOTNET/OdontologyClinic/OdontologyClinic/bin/Debug/OdontologyClinic.exe
-/Users/marcelobrito/Documents/University/DOTNET/OdontologyClinic/OdontologyClinic/bin/Debug/OdontologyClinic.pdb
-/Users/marcelobrito/Documents/University/DOTNET/OdontologyClinic/OdontologyClinic/obj/x86/Debug/OdontologyClinic.csprojAssemblyReference.cache
-/Users/marcelobrito/Documents/University/DOTNET/OdontologyClinic/OdontologyClinic/obj/x86/Debug/OdontologyClinic.csproj.CoreCompileInputs.cache
-/Users/marcelobrito/Documents/University/DOTNET/OdontologyClinic/OdontologyClinic/obj/x86/Debug/OdontologyClinic.exe
-/Users/marcelobrito/Documents/University/DOTNET/OdontologyClinic/OdontologyClinic/obj/x86/Debug/OdontologyClinic.pdb
