@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.OdontologyClinic PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="OdontologyClinic/Program.cs">
     <Files>
-      <File FileName="OdontologyClinic/Program.cs" Line="178" Column="22" />
+      <File FileName="OdontologyClinic/Program.cs" Line="131" Column="10" />
       <File FileName="OdontologyClinic/Model/Clinic.cs" Line="12" Column="13" />
       <File FileName="OdontologyClinic/Model/Patient.cs" Line="13" Column="35" />
     </Files>
