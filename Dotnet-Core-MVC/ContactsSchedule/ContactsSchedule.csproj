@@ -2,20 +2,28 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
-    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.1" PrivateAssets="All" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.3" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.1.1" />
   </ItemGroup>
-
-  <ItemGroup>
-    <Content Remove="Views\Home\About.cshtml" />
-    <Content Remove="wwwroot\images\banner1.svg" />
-    <Content Remove="wwwroot\images\banner2.svg" />
-    <Content Remove="wwwroot\images\banner3.svg" />
-  </ItemGroup>
+  
   <ItemGroup>
     <None Remove=".gitignore" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Views\" />
+    <Folder Include="Views\Contact\" />
+    <Folder Include="Views\Shared\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Views\Shared\_ValidationScriptsPartial.cshtml" />
   </ItemGroup>
 </Project>
